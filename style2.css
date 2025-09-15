@@ -18,11 +18,12 @@ header{
 }
 h1{
     color: white;
-    font-size: 27pt;
+    font-size: 30pt;
     text-shadow:2px 2px 4px rgba(0, 0, 0, 0.438);
 }
 nav>a{
       padding: 3px;
+      font-size: 15pt;
 }
 h2{
     font-size: 22pt;

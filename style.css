@@ -78,13 +78,14 @@ li:hover {
           color: darkgreen;
 }
 #link{
+      font-size: 30pt;
       min-width: 450px;
       max-width: 820px;
       margin: auto;
 }
 footer{
     font-family: Arial;
-    font-size: 30pt;
+    font-size: 25pt;
     color:white;
     text-shadow: 2px 2px 4px #0000006c ;
    background-image: linear-gradient( to bottom, rgb(99, 214, 99), rgb(12, 80, 12));

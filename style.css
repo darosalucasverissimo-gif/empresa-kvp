@@ -18,6 +18,7 @@ main{
 nav a{
       color: white;
       padding: 10px;
+      border: 1px black;
 }
 nav a:hover{
     color: rgb(18, 68, 175);

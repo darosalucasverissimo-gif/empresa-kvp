@@ -7,6 +7,7 @@ main{
     background-color: white;
     padding: 10px;
     margin: auto;
+    min-width: none;
     max-width: 800px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
 }

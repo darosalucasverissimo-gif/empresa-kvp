@@ -1,7 +1,7 @@
 @charset "UTF-8"
 
 ;body{
-    background-color: rgb(184, 227, 238);
+    background-image: linear-gradient(to bottom,#00E3ED,#0099ED);
 }
 main{
     background-color: white;
@@ -12,7 +12,7 @@ main{
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
 }
 header{
-    background-image:linear-gradient(to bottom, rgb(124, 235, 124),rgb(2, 82, 2));
+    background-image:linear-gradient(to bottom, #00ED06,#02a73e);
     margin: -10px -7px 0px -7px;
     padding: 10px;
     text-align: center;
@@ -28,9 +28,9 @@ nav>a{
 }
 h2{
     font-size: 22pt;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.418) ;
-    color: rgb(6, 90, 6) ;
-    background-image: linear-gradient(to right, rgb(186, 230, 186), rgba(157, 214, 157, 0) );
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.418) ;
+    color: #02a73e ;
+    background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0) );
 }
 p{
     font-size: 16pt;
@@ -43,7 +43,7 @@ img{
     margin: auto;
 }
 footer{
-    background-color: green;
+    background-color:#02a73e;
     margin-bottom: -40px;
     margin-left: -10px;
     margin-right: -10px;

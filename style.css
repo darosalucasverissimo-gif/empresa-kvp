@@ -2,6 +2,7 @@
 
 ;body {
     background-image:linear-gradient(to bottom,#00E3ED,#0099ED);
+    background-attachment: fixed;
     font-size: 18pt;
 }
 main{

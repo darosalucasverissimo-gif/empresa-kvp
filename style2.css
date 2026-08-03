@@ -28,9 +28,11 @@ nav>a{
 }
 h2{
     font-size: 22pt;
-    text-shadow: 1px 1px 2px #00bb06ef;
-    color: #02a73e ;
+    text-shadow: 1px 1px 2px #00bb06c7;
+    color: #029437 ;
     background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0) );
+    padding: 3px;
+    border-radius: 5px;
 }
 p{
     font-size: 16pt;
@@ -56,6 +58,7 @@ a{
 a:hover{
     background-color:rgb(186, 230, 186);
     border-radius: 3px;
+    padding: 2px;
     color: darkgreen;
     text-decoration: underline;
 }

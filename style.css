@@ -1,7 +1,7 @@
 @charset "UTF-8"
 
 ;body {
-    background-image:linear-gradient(to right, #33B6C7, #5bbddb, #3f858f);
+    background-image:linear-gradient(to bottom,#00E3ED,#0099ED);
     font-size: 18pt;
 }
 main{
@@ -21,10 +21,10 @@ nav a{
       border: 1px black;
 }
 nav a:hover{
-    color: rgb(18, 68, 175);
+    color: #016faa;
 }
 header{
-    background-image: linear-gradient( to bottom, rgb(99, 214, 99), rgb(12, 80, 12));
+    background-image: linear-gradient( to bottom,#00ED06,#02a73e);
      text-align: center;
      height: 120px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.281);
@@ -46,10 +46,10 @@ h1 {
 }
 
 h2 {
-    background-image: linear-gradient(to right, rgb(186, 230, 186), rgba(157, 214, 157, 0));
+    background-image: linear-gradient(to right, #00ed088a, rgba(157, 214, 157, 0));
     font-family: Arial;
     font-size: 25pt;
-    color: rgb(10, 83, 32);
+    color: #02a73e;
 }
 
 h3 {
@@ -75,8 +75,11 @@ a:hover {
          border-radius: 5px;
 }
 li:hover {
-          text-decoration: underline;
-          color: darkgreen;
+          background-color: #00ed08b2;
+          padding: 2px;
+          border-radius: 4px;
+          width: 220px;
+          color: #028f36;
 }
 #link{
       font-size: 22pt;
@@ -90,7 +93,7 @@ footer{
     font-size: 25pt;
     color:white;
     text-shadow: 2px 2px 4px #0000006c ;
-   background-image: linear-gradient( to bottom, rgb(99, 214, 99), rgb(12, 80, 12));
+   background-image: linear-gradient( to bottom, #00ED06,#02a73e);
     height: 140px;
     min-width: none;
     max-width: 820px;

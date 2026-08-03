@@ -28,7 +28,7 @@ nav>a{
 }
 h2{
     font-size: 22pt;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.418) ;
+    text-shadow: 1px 1px 2px #00bb06ef;
     color: #02a73e ;
     background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0) );
 }

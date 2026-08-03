@@ -14,20 +14,20 @@ main{
 header{
     background-image:linear-gradient(to bottom, #00ED06,#02a73e);
     margin: -10px -7px 0px -7px;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 h1{
     color: white;
-    font-size: 30pt;
+    font-size: 45pt;
     text-shadow:2px 2px 4px rgba(0, 0, 0, 0.438);
 }
 nav>a{
       padding: 3px;
-      font-size: 15pt;
+      font-size: 20pt;
 }
 h2{
-    font-size: 22pt;
+    font-size: 25pt;
     text-shadow: 1px 1px 2px #00bb06c7;
     color: #029437 ;
     background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0) );

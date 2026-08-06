@@ -7,14 +7,14 @@ main{
     background-color: white;
     padding: 10px;
     margin: auto;
-    min-width: 320px;
+    min-width: 200px;
     max-width: 800px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
 }
 header{
     background-image:linear-gradient(to bottom, #00ED06,#02a73e);
     margin: -10px -7px 0px -7px;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
 }
 h1{
@@ -25,12 +25,13 @@ h1{
 nav>a{
       padding: 3px;
       font-size: 20pt;
+      padding: 10px;
 }
 h2{
     font-size: 25pt;
     text-shadow: 1px 1px 2px #00bb06c7;
     color: #029437 ;
-    background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0) );
+    background-image: linear-gradient(to right, #00ed0893, rgba(157, 214, 157, 0)) ;
     padding: 3px;
     border-radius: 5px;
 }
@@ -70,11 +71,12 @@ footer{
 a{
    color: white;
    text-decoration: none;
+   padding: 5px;
 }
 a:hover{
     background-color:black;
     border-radius: 3px;
-    padding: 2px;
+    padding: 5px;
     color: white;
     text-decoration: underline;
 }

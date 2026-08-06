@@ -17,11 +17,9 @@ main{
     margin: auto;
 }
 nav a{
-      background-color:#00E3ED;
       color: white;
       padding: 5px;
       border: 1px ;
-      border-radius: 5px;
     }
 nav a:hover{
     color: #016faa;
@@ -29,7 +27,6 @@ nav a:hover{
 header{
     background-image: linear-gradient( to bottom,#00ED06,#02a73e);
      text-align: center;
-     height: 120px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.281);
     margin-top:-8px;
     margin-left: -3px ;
@@ -47,6 +44,7 @@ h1 {
     margin-left: -3px ;
     margin-bottom: 20px;
     margin-right: -5px;
+    padding: 10px;
 }
 
 h2 {

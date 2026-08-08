@@ -22,7 +22,7 @@ nav a{
       border: 1px ;
     }
 nav a:hover{
-    color: #016faa;
+    color: #02a73e;
 }
 header{
     background-image: linear-gradient( to bottom,#00ED06,#02a73e);
@@ -49,6 +49,8 @@ h1 {
 
 h2 {
     background-image: linear-gradient(to right, #00ed088a, rgba(157, 214, 157, 0));
+    border-radius: 5px;
+    padding: 1px;
     font-family: Arial;
     font-size: 25pt;
     color: #02a73e;
@@ -59,22 +61,31 @@ h3 {
     font-size: 23;
     color: black;
 }
+h4{
+    color:white;
+    font-size: 14pt;
+    text-align: center;
+    background-color: #02a73e;
+    border-radius: 5px;
+    padding: 1px;
+}
 
 p {
     text-indent: 15px;
-    font-size: 18pt ;
+    font-size: 16pt ;
     color: black;
     text-align:justify;
 }
 a {
-    color: rgb(169, 233, 169);
+    color: white;
     text-decoration: none;
 }
 a:hover {
          text-decoration: underline;
-         background-color: #B5EDC4;
+         background-color: white;
          padding: 5px;
          border-radius: 5px;
+         color: #02a73e;
 }
 li:hover {
           background-color: #00ed08b2;
@@ -109,4 +120,10 @@ footer p{
 }
 #pag2{
     height:90px;
+}
+video{
+    margin: auto;
+}
+img{
+    width: 100%;
 }

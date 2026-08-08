@@ -8,7 +8,7 @@ main{
     padding: 10px;
     margin: auto;
     min-width: 200px;
-    max-width: 900px;
+    max-width: 800px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
 }
 header{
@@ -18,6 +18,7 @@ header{
     text-align: center;
 }
 h1{
+    font-family: Arial;
     color: white;
     font-size: 45pt;
     text-shadow:2px 2px 4px rgba(0, 0, 0, 0.438);
@@ -28,6 +29,7 @@ nav>a{
       padding: 10px;
 }
 h2{
+    font-family: Arial;
     font-size: 25pt;
     text-shadow: 1px 1px 2px #00bb06c7;
     color: #029437 ;
@@ -36,24 +38,26 @@ h2{
     border-radius: 5px;
 }
 h3{
+    font-family: Arial;
     font-size: 18pt;
     text-shadow: 1px 1px 2px black;
     background-color: white;
     box-shadow: 2px 2px 1px black;
 }
 h4{
+    font-family: Arial;
     color:white;
     font-size: 14pt;
     text-align: center;
-    background-color: red;
+    background-color: #02a73e;
     border-radius: 5px;
     padding: 1px;
 }
 h5{
+    font-family: Arial;
     color: grey;
     font-size: 13pt;
     text-align: center;
-
 }
 
 p{
@@ -66,7 +70,8 @@ img{
     justify-content: center;
     margin: auto;
     width: 100%;
-    max-width: 600px;
+    max-width: 500px;
+    max-height: 500px;
 }
 footer{
     background-color:#02a73e;
@@ -81,9 +86,12 @@ a{
    padding: 5px;
 }
 a:hover{
-    background-color:black;
+    background-color:white;
     border-radius: 3px;
     padding: 2px;
-    color: white;
+    color: #02a73e;
     text-decoration: underline;
+}
+picture{
+    max-height: 300px;
 }
